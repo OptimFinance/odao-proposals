@@ -1,4 +1,4 @@
-# dao-proposals
+# odao-proposals
 Proposals to the ODAO
 
 # Procedure
