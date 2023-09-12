@@ -3,6 +3,6 @@
 - Status: ????
 - Authors: XXXX, YYYY
 
-## Section 1
+## Proposal Details
 
-[ very valuable additions to the ODAO ]
+[ Very valuable additions to the ODAO ]
