@@ -11,9 +11,6 @@ We’ve released and supported our first product, climbed to the top ranks of Ca
 
 To this end, we must kickstart the Optim DAO (ODAO) and vote on a few key matters.
 
-In this article we’ll briefly summarize the process for ODAO proposals and voting followed by  each item that is to be voted on in Optim’s first ODAO vote. The proposals are now posted and live on our ‘temp check’ discussion forum on Github. 
-
-
 ## ODAO Process Overview  
 
 ODAO proposals and voting can be divided into 2 steps:
@@ -211,7 +208,7 @@ Tokens Earned – 6%
 
 Vesting – 20 month linear (August 2025 through May 2026)
 
-### Team Earning Period 3 – 20 months from August 2025 through May 2026 
+### Team Earning Period 3 – August 2025 through May 2026 (20 months)
 (Second Vesting Period) 
 
 Tokens Earned – 4% 
