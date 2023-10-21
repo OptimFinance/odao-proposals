@@ -64,7 +64,7 @@ It is up to individuals to decide what to do with the OPTIM tokens received via 
 
 Before the start of the ILE, the OPTIM and OPTIMiz tokens will be sent to the ODAO treasury owned wallet for distribution. The ODAO treasury will then push these tokens to the distribution system contracted out to and built by Optim Labs for the ILE. 
 
-The Initial Liquidity Event will begin X/X/2023 at 00:00 UTC and end in 24 hours
+The Initial Liquidity Event will begin X/X/2023 at 14:00 UTC and end in 24 hours
 
 The ILE consists of 3 phases: First Swap Phase, Second Swap Phase, and Settlement Phase
 
@@ -90,9 +90,11 @@ The second swap phase allows participants to exchange Optim Bond Tokens for OPTI
 
 3M OPTIM are available in exchange for 15,000 Optim Bond Tokens (1.5M ADA Face Value)  
 
-Participants will submit orders, all Optim Bond tokens will be pooled, and distributions will be calculated on a pro-rata basis with each order settling as the amount calculated as percentage of all orders submitted during this phase. 
+Participants will submit orders, all Optim Bond tokens will be pooled, and distributions will be calculated on a pro-rata basis with each order settling as the amount calculated as percentage of all orders submitted during this phase.
 
-In the case that more Optim Bond tokens are sent than OPTIM available in the second phase, participants will be refunded all excess Bond Tokens beyond their pro-rata allotment. The Bond tokens will be sent back along with all OPTIM tokens during the Settlement phase. 
+In the case that more Optim Bond tokens are sent than OPTIM available in the second phase, participants will be refunded all excess Bond Tokens beyond their pro-rata allotment. The Bond tokens will be sent back along with all OPTIM tokens during the Settlement phase. The algorithm chooses, after rounding down the total ADA value of bonds sent, the oldest issued bonds that can be added to the user's contribution before going over their alloted cap. 
+Meaning if the bond round is 3x oversubscribed, and the user has submitted 2102 ADA worth of bond tokens, their contribution will be equal to however many bond tokens, taking them from oldest to newest will be able to be taken before their value exceeds 700.666666 ada.
+The remaining ada rounding error is added to the allocation of the ADA round, and, assuming that it also has overflown, it will influence its allication. Otherwise it will simply be unallocated. 
 
 Any available unclaimed OPTIM from the second swap phase will be allocated to the pool of available OPTIM for first swap phase participants. If the first swap phase is oversubscribed, any excess second phase OPTIM will be automatically added to fulfill orders placed during the first phase. It will be distributed on the same pro-rata basis as a participant’s percentage of the total order pool.  
 
@@ -132,7 +134,7 @@ At this point, the Bond is technically worth 102.33 ADA
 If the Bond reached maximum duration of 6 months the redemption value would be 103.5 ADA
 Optim’s ILE system would value this bond at 103.5 ADA in calculating the amount of OPTIM a participant receives in exchange for the bond described in the above example.  
 
-*Bonds issued and purchased after 10/17/2023 are not eligible for ILE exchange 
+*Bonds issued after 10/17/2023 are not eligible for ILE exchange, but bonds purchased on second hand markets (that were issued before the cutoff, are)
 
 ### Liquidity Allocations
 
@@ -192,7 +194,7 @@ Optim Bond LPs: 500,000 OPTIM
 
 Team earning and vesting will occur in a continuous series of tranches. Each tranche is a period of time during which the team earns tokens. The tokens from the previous tranche vest during the following earning period. Each earning and vesting period is 20 months in duration. 
 
-*There was an earning period freeze during September & October 2023 due to TGE delay. The second earning period/ first vesting period thus begins November 2023F
+*There was an earning period freeze during September & October 2023 due to TGE delay. The second earning period/ first vesting period thus begins November 2023
 
 ### Team Earning Period 1 –  January 2022 through August 2023 (20 months) 
 
