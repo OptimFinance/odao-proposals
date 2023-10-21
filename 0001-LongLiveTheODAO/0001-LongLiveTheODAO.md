@@ -72,6 +72,9 @@ The ILE consists of 3 phases: First Swap Phase, Second Swap Phase, and Settlemen
 2. Second Swap Phase -an allotment of OPTIM is available in exchange for Optim Bond Tokens
 3. Settlement Phase - all orders are settled, demand between phases is balanced, and participants' OPTIM and any excess funds are sent. 
 
+Any available unclaimed OPTIM from the second swap phase will be allocated to the pool of available OPTIM for first swap phase participants. 
+If the first swap phase is oversubscribed, any excess second phase OPTIM will be automatically added to fulfill orders placed during the first phase. It will be distributed on the same pro-rata basis as a participant’s percentage of the total order pool
+
 ### First Swap Phase 
 
 The first swap phase allows participants to exchange ADA for OPTIM tokens 
