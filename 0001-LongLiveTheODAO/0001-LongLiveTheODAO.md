@@ -1,4 +1,4 @@
-# 0000-ProposalTemplate
+# 0001-LongLiveTheODAO
 
 - Status: Proposed
 - Authors: Optim Labs
