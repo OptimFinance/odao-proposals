@@ -1,6 +1,6 @@
 # 0001-LongLiveTheODAO
 
-- Status: Proposed
+- Status: Judged
 - Authors: Optim Labs
 
 ## Introduction
@@ -31,7 +31,7 @@ The four matters up for temp check then formal governance vote:
 
 - OPTIM token Initial Liquidity Event
 - VC vesting schedules 
-- Bond LP token airdrop 
+- Token airdrop 
 - ODAO Constitution 
 
 ## OPTIM token Initial Liquidity Event
