@@ -220,6 +220,12 @@ Tokens Earned – 4%
 
 Vesting – 20 month linear (June 2026 through February 2027)
 
+## ODAO Initial Allocation
+
+While the current ODAO structure is still being formalized, with Formal Governance now going live, this proposal brings to vote the allocation of 100,000 OPTIM tokens to the ODAO at TGE. These tokens are equivilent to 2% of the 5% Total Supply (5,000,000) that is allocated to the ODAO. Over the previous year ODAO members, while participating via an informal structure, have contributed to Optim Bond service tickets, Discord general channel inquiries, and the ODAO private channel ideation and feedback. These tokens will vest immediately and be divvied up amongst the current ODAO participants. 
+
+This is a one time allocation and is not representative of the ODAO’s future OTPIM token vesting and incentive structure moving forward. Those details are to be formalized and voted on in the near future as the ODAO structure formalizes.
+
 ## Future ODAO Structure 
 
 The ODAO if all interests represent the future direction of the Optim DAO. It advances us towards a more comprehensive and capable DAO as Optim grows as a protocol.
