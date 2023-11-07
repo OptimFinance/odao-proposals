@@ -1,6 +1,6 @@
 # 0001-LongLiveTheODAO
 
-- Status: Judged
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Introduction
