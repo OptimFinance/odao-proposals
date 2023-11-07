@@ -1,4 +1,9 @@
-# Context
+# 0000-ProposalTemplate
+
+- Status: Proposed
+- Authors: Optim Labs
+
+## Context
 
 Since launch, Optim’s Liquidity Bonds have provided the best passive ‘real yield’ on ADA in the Cardano DeFi ecosystem. No possible liquidations, managing positions, pairing ADA with other tokens for an LP, or selling farmed governance tokens are required to achieve superior yield.
 
@@ -13,7 +18,7 @@ Liquidity Bonds have now been live for nearly an entire year. The community and 
 
 Given everything mentioned above, we believe the time is right to revisit OPTIM token emissions for Liquidity Bonds.
 
-# Proposal
+## Proposal
 
 
 End all OPTIM token emissions for Liquidity Bond buyers.
