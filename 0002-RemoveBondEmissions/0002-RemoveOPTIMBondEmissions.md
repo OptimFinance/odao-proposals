@@ -1,6 +1,6 @@
 # 0001 - RemoveOPTIMBondEmissions
 
-- Status: Proposed
+- Status: Judged
 - Authors: Optim Labs
 
 ## Context
