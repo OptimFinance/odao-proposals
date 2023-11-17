@@ -19,13 +19,13 @@ As the next step in progressive decentralization, I propose the creation of the 
 The goal will be continued trust of this Council for additional ODAO treasury assets, but in the spirit of progressive decentralization, we should start with the initial 100,000 already set in proposal 0001. The multisig will likely be Roundtable.
 
 Proposed Members of the Original Council and multisig: 
-@Marco_112358
-@JWolfish
-@Joynul
-@Impala
-@MikeR
-@intellectual_honesty
-@inputendorsers
+@Marco_112358, 
+@JWolfish, 
+@Joynul, 
+@Impala, 
+@MikeR, 
+@intellectual_honesty, 
+@inputendorsers, 
 Jamie of Ionia (@james_3604) 
 
 --Marco
