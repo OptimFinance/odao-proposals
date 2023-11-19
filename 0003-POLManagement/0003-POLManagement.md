@@ -1,6 +1,6 @@
 # 0003-POLManagement
 
-- Status: Judged
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Context
