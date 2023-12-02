@@ -8,7 +8,7 @@
 Optim DAO (ODAO) plans on using a 3-Branch (Tricameral) system for DAO governance. The 3 branches can be explored in more detail here (https://github.com/OptimFinance/constitutions).
 The 3 branches each serve their own purpose, and balance and monitor each other while having their own consititution and self-governance. 
 
-The Council (delta) Branch is responsible for managing the treasury. The main function of the Council is to manage the treasury, grow the treasury and finance the maintenance and growth of Optim and the ecosystem bound to develop around Optim. The constitution of the Council can be found here (https://github.com/OptimFinance/constitutions/blob/master/odao-delta.md).
+The Council (delta) Branch is responsible for managing the treasury. The main functions of the Council are: (a) to manage the treasury, (b) grow the treasury, (c) manage and monitor all associated risks and (d) finance the maintenance and growth of Optim and the ecosystem bound to develop around Optim. The constitution of the Council can be found here (https://github.com/OptimFinance/constitutions/blob/master/odao-delta.md).
 
 DAOs in general are notoriously fickle and prone to governance attacks. In the early stages of a protocol, the core team should be managing not only the product offering, development, delivery, maintenence, etc., but also the treasury on behalf of the future DAO. Progressive decentralization is the key to not only a successful protocol but also as the future of the DAO as a whole. 
 
