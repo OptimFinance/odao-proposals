@@ -30,8 +30,6 @@ Proposed Members of the Original Council and multisig:
 @inputendorsers, 
 Jamie of Ionia (@james_3604) 
 
-The Council in this form will be governed by a Policies and Procedures Document, as can be seen here.
-
-https://docs.google.com/document/d/1Bd1GFjIwTo7XjSnVUA_kpEgpdmIm0L9Z/edit?usp=drivesdk&ouid=106331253884259914251&rtpof=true&sd=true
+The Council in this form will be governed by a Policies and Procedures Document, as can be seen here in this folder.
 
 --Marco
