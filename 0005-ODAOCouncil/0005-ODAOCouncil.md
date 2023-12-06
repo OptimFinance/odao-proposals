@@ -32,4 +32,6 @@ Jamie of Ionia (@james_3604)
 
 The Council in this form will be governed by a Policies and Procedures Document, as can be seen here in this folder.
 
+We propose an initial compensation of 75 USD, paid in OPTIM, per Council seat per month for the first 3 months. The price of OPTIM will be the simple average of the daily OPTIM price. We will propose a new budget after the initial 3 month period. 
+
 --Marco
