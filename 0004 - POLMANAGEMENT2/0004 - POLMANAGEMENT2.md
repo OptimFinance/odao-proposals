@@ -1,4 +1,6 @@
-﻿**Context**
+﻿**Status:** Proposed **Author:** meeth.xo
+
+**Context**
 
 Optim POL allocations are monitored and adjusted on a continuous basis as new data, market conditions, and opportunities are evaluated by the ODAO. Small, incremental adjustments are made over time, with the original allocations and directives outlined in proposals 0001-LongLiveTheODAO and 0003-POLMANAGEMENT. A conservative approach to POL deployment is favored, as the ODAO carefully considers and votes on any and all adjustments to assets.
 
