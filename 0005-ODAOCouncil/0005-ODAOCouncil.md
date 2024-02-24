@@ -1,6 +1,6 @@
 # 0005 - ODAO_Council
 
-- Status: Proposed
+- Status: Accepted
 - Authors: Marco_112358
 
 ## Context
