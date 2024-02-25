@@ -5,23 +5,23 @@
 
 ## Context
 
-With the adventy of the upcoming launch of the Splash protocol the ODAO has been made an offer to participate in their VE bootstrap phase, that will allow the ODAO to swap newly issued OPTIM for SPLASH, under conditions of mutual provision of LP of the swapped tokens and lockup of SPLASH for a minimum of 1 year. The total SPLASH available via a token swap is 1%. Furthermore ODAO has been made an offer to acquire 1.5% SPLASH via ADA. All of supply acquired via this deal has to be provided in the 80/20 LP and locked up for 1year minimum.
+With the advent of the upcoming launch of the Splash protocol the ODAO has been made an offer to participate in their VE bootstrap phase, that allows the ODAO to swap newly issued OPTIM for SPLASH, under condition of mutually providing LP of the swapped tokens and lockup of SPLASH for a minimum of 1 year. The total SPLASH available via a token swap is 1%. Furthermore ODAO has been made an offer to acquire 1.5% SPLASH via ADA. All of supply acquired via this deal has to be provided in the 80/20 LP and locked up for 1year minimum.
 
 The VE authority of choosing gauge votes is delegated to Optim Labs for first 3 months, afterwards moving under the ODAO Council.
 
-Furthermore we propose utilizing additional ADA from the tresury to acquire SPLASH from the Public sale, authorizing excess ADA for that purpose as the sale will be done in a pro-rata style. 
+Furthermore we propose utilizing additional ADA from the treasury to acquire SPLASH from the Public sale, authorizing use of excess ADA for that purpose as the sale will be done in a pro-rata style. 
 
-With the advent of Splash launching we also propose the creation of the 80/20 pool we require to facilitate our own staking plans, as a first step along that path. We should mention that the staking is intended to entail the use of OPTIM/OADA, which is intended to be seeded by moving the POL to that pool, subject to another proposal, one launching OADA. 
+With the launch of Splash we also propose the creation of the 80/20 pool we require to facilitate our own staking plans, as a first step along that path. We should mention that the staking is intended to entail the use of OPTIM/OADA, which is intended to be seeded by moving the POL to that pool, subject to another proposal, one launching OADA. 
 
-This proposal also incluses issuance and supplying of OPTIM into the 80/20 Pool to maintain balance and capture more volume and fees for the ODAO
+This proposal also includes issuance and supplying of OPTIM into the 80/20 Pool to maintain balance and capture more volume and fees for the ODAO
 
 The fee structure on the aforementioned OPTIM pairs will be 1.5% swap fee down from 3% in our commitment to a slow rollout of more efficient markets. 
 
-Proposal also gives a blank authority over the management of any emissions earned, any airdrops given from Splash to the ODAO Council, as well as the amount of locked SPLASH/ADA LP. 
+Proposal also gives a blanket authority over the management of any emissions earned, any airdrops given from Splash to the ODAO Council, as well as the amount of locked SPLASH/ADA LP. 
 
 ## Motivation
 
-Why even participate? The primary reason to acquire a stake in Splash is such that we may participate in the economic divide and conquer game of OADA, that requires subsidization at the very least encouragement to utilize OADA for the purposes of trading. 
+Why participate? The primary reason to acquire a stake in Splash is such that we may participate in the economic divide and conquer game of OADA, that requires subsidization at the very least encouragement to utilize OADA for the purposes of trading. Meaning, directly separating out the concerns and wants of more and less speculative user bases for OADA and sOADA.
 
 It is therefore in the ODAO's interest to acquire means of direct influence over liquidity and volume. 
 
@@ -46,7 +46,7 @@ General
 
 To simplify the accounting, 1% is worth 175k ADA, and to provide it as per terms of the agreement into LP requires 175/8*2 = 43.75k ADA in the 80/20. 
 
-ODAO is offered a swap of OPTIM at spot price for 1% of SPLASH, and, 1.5% guaranteed SPLASH allocation with ADA. Cost of LP calculated above is 2.5*43.75k = 109.375k ADA.
+ODAO is offered a swap of OPTIM at spot price for 1% of SPLASH, and, 1.5% guaranteed SPLASH allocation with ADA. Cost of the LP calculated above is 2.5*43.75k = 109.375k ADA.
 On top of the 175k * 1.5, equalling in total ADA cost of 371.875k ADA. Plus, obviously, the cost of OPTIM, which would be issued from noncirculating supply (as it is planned to be put into LP, from the Public allocation). 
 
 We can only estimate the required amount of OPTIM but we can bound it by the recent price points between 380k OPTIM and 170k OPTIM depending on where the price will be at the time of the execution of the swap.
@@ -55,12 +55,12 @@ We can only estimate the required amount of OPTIM but we can bound it by the rec
 
 We project that the ODAO will receive a number of Splash tokens from the airdrop to Spectrum LPs, in not a small size. Hazarding a guess would be, however possibly incorrect, for the purposes of consideration and motivating why the public target is what it is, we shall assume that the airdrtop allocation is approximately and conservatively 0.5%. 
 
-In our estimations for what is requires to support both OPTIM/ADA and OADA/ADA, potentially others, using our gauge votes -- ODAO requires at least 4% of the supply staked and max locked to support it. 
+In our estimations for what is requires to support both OPTIM/ADA and OADA/ADA, potentially others, using our gauge votes -- ODAO will require at least 4% of the supply staked and max locked to support it. 
 
 As such it would be required to acquire at least 1% additional supply assuming all sources are fully staked. This in turn, would add a cost of 175k, plus 2=1.5*43.75k to LP it. 
 In total for this section, 240.625k ADA if we were able to acquire it directly as we can with the VE Bootstrap event. 
 
-We however must authorize excess ADA to account for the possiblity of a pro-rata dilution. Thus, authorization of an additional 400k ADA is required for this purpose. ADA not used is returned is returned to the general ODAO Tresury. Splash acquired is under ODAO Council management.
+We however must authorize excess ADA to account for the possiblity of a pro-rata dilution. Thus, authorization of an additional 400k ADA is required for this purpose. ADA not used is returned and Splash acquired is under ODAO Council management for the purposes of agile execution and positining of liquidity.
 
 ### POL Spectrum->Splash Move, 80/20 Creation
 
