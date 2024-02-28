@@ -36,7 +36,7 @@ Full terms of the deal:
 ```
 General
 
-- Price: 0.175 ADA. If ADA drops or raises significantly (+-30% in USD value) we will refund 100% and draw another agreement with an updated price. This is for proper design of the public round. We both have a vested interest in making it a success.
+- Price: 0.175 ADA. 
 - You must publicly commit to follow the agreement
 - Wen DAO treasury management is implemented and the control over it is transferred to the community, we won't have direct access to your tokens anymore.
 - Min vote lock time: 1 year
@@ -60,7 +60,7 @@ In our estimations for what is requires to support both OPTIM/ADA and OADA/ADA, 
 As such it would be required to acquire at least 1% additional supply assuming all sources are fully staked. This in turn, would add a cost of 175k, plus 2=1.5*43.75k to LP it. 
 In total for this section, 240.625k ADA if we were able to acquire it directly as we can with the VE Bootstrap event. 
 
-We however must authorize excess ADA to account for the possiblity of a pro-rata dilution. Thus, authorization of an additional 400k ADA is required for this purpose. ADA not used is returned and Splash acquired is under ODAO Council management for the purposes of agile execution and positining of liquidity.
+We however must authorize excess ADA to account for the possiblity of a pro-rata dilution. Thus, authorization of an additional 400k ADA is required for this purpose. ADA not used and Splash acquired is under ODAO Council management for the purposes of agile execution and positining of liquidity.
 
 ### POL Spectrum->Splash Move, 80/20 Creation
 
@@ -72,7 +72,7 @@ Should the amount earmarked for POL be insufficient to achieve this, the proposa
 
 The control over gauge votes is given to Optim Labs for the first 3 months before moving the stewardship over to the ODAO Council. 
 
-It is intended to be issued into the OPTIM/ADA 80/20 pool but there may be opportunities including but not limited to the launch of OADA that will justify the change of the voting pattern. 
+It is intended to be issued into the OPTIM/ADA 80/20 pool (and later, OPTIM/OADA) but there may be opportunities including but not limited to the launch of OADA that will justify the change of the voting pattern. 
 
 ### Treasury Management 
 
