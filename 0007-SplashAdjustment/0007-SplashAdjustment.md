@@ -13,6 +13,10 @@ The rest of the prior proposal is reaffirmed, and costs are the same, with addit
 
 ## Proposal
 
+### Splash VE Bootstrap Event Positioning
+
+The 0006 decision remains the same, but with the initial price being higher, we explicitly mention that that higher cost is not taken on by the ODAO. Vote Bootstrapping pricings and the other terms remain the same otherwise.
+
 ### Splash Public Event Positioning
 
 The cost of acquiring and LP'ing 1% is 250k + 62.5k = 312.5k. Assuming we can provide liquidity at the sale price, which is not a given. Furthermore we must authorize a larger quantity of ADA for the event in order to avoid being pro-rata'd.
