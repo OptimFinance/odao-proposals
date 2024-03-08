@@ -1,6 +1,6 @@
 # 0006-POLAndSplash
 
-- Status: Proposed
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Context
