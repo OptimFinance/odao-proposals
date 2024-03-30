@@ -1,6 +1,6 @@
 # 0007-SplashAdjustment
 
-- Status: Proposed
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Context
