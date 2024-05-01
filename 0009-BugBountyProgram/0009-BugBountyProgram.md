@@ -1,4 +1,4 @@
-# 0008-BugBountyProgram
+# 0009-BugBountyProgram
 
 - Status: Proposed
 - Authors: Optim Labs
