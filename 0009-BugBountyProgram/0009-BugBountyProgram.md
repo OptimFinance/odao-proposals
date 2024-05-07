@@ -1,6 +1,6 @@
 # 0009-BugBountyProgram
 
-- Status: Judged
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Context
