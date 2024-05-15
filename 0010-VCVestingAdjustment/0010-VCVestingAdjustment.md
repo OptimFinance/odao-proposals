@@ -1,6 +1,6 @@
 # 0010 - VC Vesting Adjustment
 
-- Status: Judged
+- Status: Accepted
 - Authors: @OptimGMI
 
 ## Context
