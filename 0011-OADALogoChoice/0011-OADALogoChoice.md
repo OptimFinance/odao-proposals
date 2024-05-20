@@ -15,4 +15,4 @@ While it may seem petty, it is not, and in fact a matter of utmost importance.
 
 Choose the Right option, or the Left option for the token image and logo for OADA.
 
-The logos are attached in [this file](logos.webp).
+The logos are attached in [this file](logos.png).
