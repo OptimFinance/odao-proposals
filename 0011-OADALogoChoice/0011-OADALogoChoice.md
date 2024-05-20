@@ -1,4 +1,4 @@
-# 0010 - VC Vesting Adjustment
+# 0011 -- OADA Logo Choice
 
 - Status: Proposed
 - Authors: @zygomeb
