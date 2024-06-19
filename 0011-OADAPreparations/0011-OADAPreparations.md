@@ -1,6 +1,6 @@
 # 0011 - OADA Preparations
 
-- Status: Proposed
+- Status: Judged
 - Authors: Optim Labs
 
 ## Context
