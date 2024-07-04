@@ -1,6 +1,6 @@
 # 0012-ICCVote
 
-- Status: Judged
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Context
