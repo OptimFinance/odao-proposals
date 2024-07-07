@@ -1,6 +1,6 @@
 # 0013-OADAStakingCapSchedule
 
-- Status: Proposed
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Context
