@@ -40,6 +40,6 @@ The following ODAO members (in order) are members of the ODAO Core:
 
 ### ODAO Council Update
 
-The update removes Impala as an ODAO Council member, adding Klaus and Artifex in here place.
+The update removes Impala as an ODAO Council member, adding Noah and Artifex in here place.
 
 We also move the consensus from 4/8 to 5/9 for greater resilience. 
