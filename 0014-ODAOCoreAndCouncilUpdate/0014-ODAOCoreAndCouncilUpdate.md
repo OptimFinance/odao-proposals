@@ -1,6 +1,6 @@
 # 0014-ODAOCoreAndCouncilUpdate
 
-- Status: Judged
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Context
