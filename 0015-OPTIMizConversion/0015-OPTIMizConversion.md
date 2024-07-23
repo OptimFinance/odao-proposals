@@ -1,6 +1,6 @@
 # 0015-OPTIMizConversion
 
-- Status: Judged
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Context
