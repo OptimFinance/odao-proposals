@@ -1,6 +1,6 @@
 # 0016-OADACatalystPartnerProgram
 
-- Status: Proposed
+- Status: Judged
 - Authors: Optim Labs
 
 ## Context
