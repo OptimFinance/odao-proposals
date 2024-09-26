@@ -1,6 +1,6 @@
 # 0017-OADADexAMOUpdate
 
-- Status: Judged
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Context
