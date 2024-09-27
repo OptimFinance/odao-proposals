@@ -1,6 +1,6 @@
 # 0018-OADAADALendingAddition
 
-- Status: Proposed
+- Status: Judged
 - Authors: Optim Labs
 
 ## Context
