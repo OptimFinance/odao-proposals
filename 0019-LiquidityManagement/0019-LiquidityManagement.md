@@ -1,6 +1,6 @@
 # 0019-LiquidityManagement
 
-- Status: Proposed
+- Status: Judged
 - Authors: Optim Labs
 
 ## Context
