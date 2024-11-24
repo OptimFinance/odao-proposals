@@ -1,6 +1,6 @@
 # 0019-LiquidityManagement
 
-- Status: Judged
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Context
@@ -13,4 +13,4 @@ A necessary step, with the planned improvements coming for the technology underl
 ### Council Liquidity Management
 
 We give the ODAO Council the power to manage: remove and add (not beyond removed amount) liquidity to the governance token pair of the ODAO. 
-Fee tier and pool type may be freely changed, with an underlaying mandate to act in the best interest of the protocol as per usual. 
+Fee tier and pool type may be freely changed, with a underpingmandate to act in the best interest of the protocol as per usual. 
