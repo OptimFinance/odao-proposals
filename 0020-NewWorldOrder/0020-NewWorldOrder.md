@@ -1,6 +1,6 @@
 # 0020-NewWorldOrder
 
-- Status: Proposed
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Context
