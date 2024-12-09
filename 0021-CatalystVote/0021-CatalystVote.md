@@ -50,7 +50,11 @@ Won 1 votem chose to vote on:
 ### ODAO Free Votes
 
 We vote on all 6 proposals by Optim Labs.
-And 1 proposal from DexHunter:
+1 proposal from DexHunter:
 - DexHunter OADA Mint/Burn routing support
-
-In light of no further proposals being directly of direct line of support to the Optim products, the remaining 3 ODAO votes are not utilized.
+1 proposal from WingRiders: 
+- Open-Source Rapid DEX: Batcher-less, instant, with transaction chaining
+1 proposal from Minswap:
+- Minswap Lending Market - Long/Short
+1 proposal from Sundae Labs:
+- Sundae Labs: Amaru Node Development Support - Rust Developer Contract
