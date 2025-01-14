@@ -1,4 +1,4 @@
-# 0021-CatalystVote
+# 0022-SplashVoteAndPrep
 
 - Status: Proposed
 - Authors: Optim Labs
