@@ -1,6 +1,6 @@
 # 0021-CatalystVote
 
-- Status: Proposed
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Context
