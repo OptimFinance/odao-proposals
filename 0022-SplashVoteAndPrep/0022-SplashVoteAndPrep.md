@@ -27,3 +27,7 @@ Withdraw all liquidity, and use all of the underlying SPLASH in OSPLASH and comm
 Use remaining owned SPLASH, and SPLASH provided in SPLASH/OADA (withdrawn first) as liquidity for OSPLASH/SPLASH, in a pool managed entirely by the ODAO Council. 
 
 In the future, we may elect to add further max-locked SPLASH from this liquidity, but initially we believe that ~2.7% of the supply is sufficient bootstrapping for it. 
+
+### Temporary Management of Emissions by Optim Labs
+
+We give the authority of the choice of direction of emissions through the OSPLASH system to Optim Labs for the first 6 months of the system's lifetime, reverting to ODAO Council afterwards.
