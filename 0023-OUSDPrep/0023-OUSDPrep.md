@@ -12,6 +12,7 @@ In order to prepare ourselves for the OUSD launch, we must seed the liqudity for
 Withdraw 1M out of 1.1M (OADA + ADA) liquidity from the OADA/ADA stableswap. Swap all ADA into wanUSDC, and keep the OADA for the OADA/OUSD pool. 
 Withdraw the liquidity from the O/ADA pool on Splash and use the ADA to acquire wanUSDC. Provide the liquidity back.
 Withdraw the liquidity from the O/OADA pool on Splash and convert 200k OADA into wanUSDC. Provide it as liquitiy back.
+Withdraw the liquidity from the OADA/ADA pool on Wingriders and convert all of it into wanUSDC. Sideline it into the ODAO Treasury.
 
 Liquidity mangement, fees and dex allocation remain under control of ODAO Council.
 
