@@ -1,6 +1,6 @@
 # 0022-SplashVoteAndPrep
 
-- Status: Proposed
+- Status: Accepted
 - Authors: Optim Labs
 
 ## Context
