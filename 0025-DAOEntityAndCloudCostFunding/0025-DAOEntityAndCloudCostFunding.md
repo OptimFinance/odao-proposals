@@ -1,4 +1,4 @@
-# 0022-SplashVoteAndPrep
+# 0025-DAOEntityAndCloudCostFunding
 
 - Status: Proposed
 - Authors: Optim Labs
