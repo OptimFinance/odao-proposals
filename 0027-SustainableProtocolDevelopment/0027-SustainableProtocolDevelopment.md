@@ -1,4 +1,4 @@
-# 0022-SplashVoteAndPrep
+# 0027-SustainableProtocolDevelopment
 
 - Status: Proposed
 - Authors: Optim Labs
