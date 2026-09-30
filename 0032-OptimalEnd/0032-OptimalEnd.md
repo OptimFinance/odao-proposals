@@ -17,6 +17,7 @@ We set the claim rate at
 - 1 ADA per sOADA
 - 0.3 ADA per O
 - 0.01 ADA per OPTIMiz
+
 Failure to sign a claim message in 10 weeks forfeits the claim, as the entities will wind down operation afterwards, mitigating legal costs to DAO. There will be one fanout claim to everyone who participated at the very end of the process i.e all claims are collected then distributed at the end of the claims period. In order to claim, any and all claims on Optim Labs or Optim DAO must be renounced, and any claim on Splash Labs and Splash DAO given to Optim Labs to either pursue further reconciliation if deemed necessary. 
 
 ### Funding
